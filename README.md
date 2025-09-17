@@ -77,6 +77,7 @@ Me chamo Moises de Sousa e moro Fortaleza. Concluí o ensino médio em 2024 e at
 <br/>
 <br/>
 
+<br><br> 
 ### 📊 Estatísticas
 
 <p>
@@ -110,7 +111,6 @@ Me chamo Moises de Sousa e moro Fortaleza. Concluí o ensino médio em 2024 e at
 - Aprimorar habilidades em redes, Python e web security  
 
 ---
-<br>
 
 ### 📂 Projetos em Destaque
 
