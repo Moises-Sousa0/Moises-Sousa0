@@ -96,9 +96,9 @@ Me chamo Moises de Sousa e moro Fortaleza. Concluí o ensino médio em 2024 e at
   />
 </p>
 
+<br>
+<br>
 ---
-<br>
-<br>
 
 ### 🔒 Interesses e Objetivos
 
