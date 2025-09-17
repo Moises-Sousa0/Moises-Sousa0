@@ -100,7 +100,7 @@ Me chamo Moises de Sousa e moro Fortaleza. Concluí o ensino médio em 2024 e at
 
 
 
-### 🔒 Interesses e Objetivos
+<br><br>### 🔒 Interesses e Objetivos
 
 - Desenvolvimento de softwares  
 - Exploração ética de sistemas e hacking de segurança  
