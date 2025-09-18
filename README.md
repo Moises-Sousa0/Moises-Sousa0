@@ -86,7 +86,7 @@ Me chamo Moises de Sousa e moro Fortaleza. Concluí o ensino médio em 2024 e at
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?Moises-Sousa0e=adityaseth777&&show_icons=true&theme=dark
+    src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 </p>
 
