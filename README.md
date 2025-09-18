@@ -36,7 +36,7 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sousa0&theme=tokyonight"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sousa0&theme=dracula"
     alt="Gráfico de Atividade do GitHub"
   />
   <img 
