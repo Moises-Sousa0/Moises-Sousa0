@@ -69,7 +69,7 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
 **Sistema de Registros**
 * Programa em Python para anotações, que permite adicionar, listar e salvar registros em arquivo pelo terminal.
 * **Tecnologias:** Python, Arquivos, Terminal, Json
-* **Repositório:** [Registro CLI](https://github.com/Moises-Sousa0/livro-de-registros---python)
+* **Repositório:** [Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)
 
 ---
 
