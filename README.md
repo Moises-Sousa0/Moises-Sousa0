@@ -33,7 +33,6 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
 
 ### 📈 Estatísticas do GitHub
 
-
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
@@ -44,8 +43,6 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
     alt="Linguagens Mais Usadas"
   />
 </p>
-
----
 
 ### 🏆 Troféus
 
