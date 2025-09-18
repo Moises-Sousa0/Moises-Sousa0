@@ -33,15 +33,13 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
 
 ### 📈 Estatísticas do GitHub
 
+
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Moises-Sousa0&color=blueviolet" 
-    alt="Visualizações do Perfil"
-  />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
     alt="Linguagens Mais Usadas"
   />
+</p>
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
     alt="Linguagens Mais Usadas"
