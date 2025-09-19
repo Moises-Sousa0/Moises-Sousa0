@@ -48,7 +48,7 @@ Olá, me chamo Moisés de Sousa e moro em Fortaleza. Concluí o ensino médio em
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=tokyonight"
+    src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=tokyonight&cache_bust=true"
     alt="Troféus do GitHub"
   />
 </p>
