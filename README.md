@@ -13,15 +13,22 @@ Meu objetivo é crescer como **desenvolvedor e profissional de segurança digita
 
 <table width="100%">
   <tr>
-    <td align="center" width="60%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=radical&count_private=true&hide_border=true" width="720" alt="GitHub Stats"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=radical&count_private=true&hide_border=true" width="400" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=radical&layout=compact&langs_count=6&hide_border=true" width="320" alt="Top Languages"/><br/><br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=radical" width="320" alt="Trophies"/>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=radical&layout=compact&langs_count=6&hide_border=true" width="400" alt="Top Languages"/>
+      <br/><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=radical&row=2&column=3" width="400" alt="Trophies"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&theme=radical&hide_border=true" width="820" alt="Streak Stats"/>
     </td>
   </tr>
 </table>
+
 
 
 
