@@ -38,28 +38,21 @@ Tenho experiência e habilidades em **desenvolvimento e segurança digital**, in
 
 ## 🏆 Experiência & Projetos
 
-Mesmo sem experiência formal em empresas, venho desenvolvendo projetos pessoais e experimentos técnicos, aplicando conhecimento em:
+Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoais e experimentos técnicos**, aplicando conhecimento em:  
 
-Automação de tarefas em Python, melhorando produtividade e aprendizado
+- **Automação de tarefas** em Python, melhorando produtividade e aprendizado  
+- **Exploração ética de sistemas**, entendendo vulnerabilidades e formas de proteger dados  
+- **Criação de scripts e ferramentas** para organização pessoal, análise e manipulação de dados  
+- **Estudos de redes e protocolos**, aplicando conceitos de segurança e otimização de sistemas  
 
-Exploração ética de sistemas, entendendo vulnerabilidades e formas de proteger dados
+---
 
-Criação de scripts e ferramentas para organização pessoal, análise e manipulação de dados
+### Livro de Registros – *Python*
 
-Estudos de redes e protocolos, aplicando conceitos de segurança e otimização de sistemas
-
-Projetos
-
-**Livro de Registros** – Python
-
-Programa para criar, listar e remover registros em JSON com marcação de data e hora
-
-Permite organizar anotações pessoais de forma rápida, mantendo histórico e facilitando consultas
-
-Tecnologias: Python, JSON, readline, datetime
-
-Repositório GitHub: Clique aqui
-
+- **Descrição:** Programa para criar, listar e remover registros em JSON com marcação de data e hora  
+- **Objetivo:** Organizar anotações pessoais de forma rápida, mantendo histórico e facilitando consultas  
+- **Tecnologias:** Python, JSON, readline, datetime  
+- **Repositório GitHub:** [Clique aqui](https://github.com/Moises-Sousa0/livro-de-registros---python)
 
 
 
