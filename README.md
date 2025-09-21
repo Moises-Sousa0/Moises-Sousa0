@@ -11,15 +11,12 @@ Meu objetivo é crescer como **desenvolvedor e profissional de segurança digita
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td align="center" width="100%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" width="600" alt="GitHub Stats"/>
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=gruvbox&layout=compact&langs_count=6&hide_border=true" width="600" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" width="520" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=gruvbox&layout=compact&langs_count=6&hide_border=true" width="520" alt="Top Languages"/>
+</div>
+
 
 
 ---
