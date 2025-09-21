@@ -1,7 +1,7 @@
 # 🕵️‍♂️ Moisés Sousa
 ### Desenvolvedor & Segurança Digital
 
-Olá! Meu nome é **Moisés de Sousa** e moro em Fortaleza, Brasil. Concluí o ensino médio em 2024 e atualmente curso **Análise e Desenvolvimento de Sistemas**. Desde muito cedo, desenvolvi curiosidade por tecnologia, explorando computadores, softwares e sistemas de forma autodidata.  
+Olá! Meu nome é **Moisés de Sousa** e moro em Fortaleza. Concluí o ensino médio em 2024 e atualmente curso **Análise e Desenvolvimento de Sistemas**. Desde muito cedo, desenvolvi curiosidade por tecnologia, explorando computadores, softwares e sistemas de forma autodidata.  
 
 Minha paixão está em **entender como as coisas funcionam e como podem ser melhoradas**, principalmente em áreas de desenvolvimento de software e segurança digital. Estou sempre em busca de desafios que me permitam criar soluções eficientes, inovadoras e seguras, além de aprender novas tecnologias e metodologias.  
 
