@@ -47,9 +47,6 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 
 <br>
 <br>
-<br>
-
-
 ### Livro de Registros – *Python*
 
 - **Descrição:** Programa para criar, listar e remover registros em JSON com marcação de data e hora  
