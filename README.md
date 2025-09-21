@@ -19,11 +19,14 @@ Meu objetivo é crescer como **desenvolvedor e profissional de segurança digita
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=radical&layout=compact&langs_count=6&hide_border=true" width="400" alt="Top Languages"/>
     </td>
 
-    <td align="center" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=radical&row=2&column=3" width="400" alt="Trophies"/>
+    <td width="50%">
+      <center>
+        <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=radical&row=2&column=3" width="400" alt="Trophies"/>
+      </center>
     </td>
   </tr>
 </table>
+
 
 
 
