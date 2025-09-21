@@ -45,6 +45,9 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 - **Criação de scripts e ferramentas** para organização pessoal, análise e manipulação de dados  
 - **Estudos de redes e protocolos**, aplicando conceitos de segurança e otimização de sistemas  
 
+<br>
+<br>
+<br>
 
 
 ### Livro de Registros – *Python*
