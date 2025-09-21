@@ -11,17 +11,18 @@ Meu objetivo é crescer como **desenvolvedor e profissional de segurança digita
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="60%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=radical&count_private=true&hide_border=true" width="720" alt="GitHub Stats"/>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=radical&layout=compact&langs_count=6&hide_border=true" width="320" alt="Top Languages"/><br/><br/>
+      <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=radical" width="320" alt="Trophies"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=tokyonight&cache_bust=true" alt="Trophies"/>
-</p>
 
 
 ---
