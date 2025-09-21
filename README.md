@@ -45,7 +45,7 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 - **Criação de scripts e ferramentas** para organização pessoal, análise e manipulação de dados  
 - **Estudos de redes e protocolos**, aplicando conceitos de segurança e otimização de sistemas  
 
----
+
 
 ### Livro de Registros – *Python*
 
@@ -54,6 +54,9 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 - **Tecnologias:** Python, JSON, readline, datetime  
 - **Repositório GitHub:** [Clique aqui](https://github.com/Moises-Sousa0/livro-de-registros---python)
 
+<br>
+<br>
+<br>
 
 
 > À medida que concluo projetos maiores, eles serão adicionados aqui com **descrição detalhada, tecnologias usadas e links para repositórios**.
