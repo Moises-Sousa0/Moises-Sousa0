@@ -12,22 +12,17 @@ Meu objetivo é crescer como **desenvolvedor e profissional de segurança digita
 ## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Moises-Sousa0?tab=repositories&sort=stargazers">
-    <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/Moises-Sousa0?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
-  </a>
-  <a href="https://github.com/Moises-Sousa0?tab=followers">
-    <img alt="Seguidores" src="https://custom-icon-badges.demolab.com/github/followers/Moises-Sousa0?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&cache_bust=true" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&hide_border=true&cache_bust=true" alt="Linguagens Mais Usadas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=tokyonight&layout=compact&langs_count=6&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=tokyonight&cache_bust=true" alt="Troféus do GitHub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Moises-Sousa0&theme=tokyonight&cache_bust=true" alt="Trophies"/>
 </p>
+
 
 ---
 
