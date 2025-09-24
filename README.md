@@ -81,13 +81,7 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 - Aprender continuamente sobre **novas tecnologias, frameworks e boas práticas**  
 - Contribuir para **projetos de inovação** que envolvam proteção de sistemas e dados  
 
----
-
-## 💡 Visão Pessoal
-
-Acredito que **programação e segurança digital caminham juntas**: criar soluções funcionais sem comprometer a integridade dos dados é essencial.  
-Meu foco é **entender sistemas profundamente**, identificar pontos de melhoria e propor soluções práticas e seguras.  
-Busco crescer constantemente, **desafiando-me com problemas reais**, experimentando tecnologias novas e aplicando conhecimento de forma ética e responsável.  
+ 
 
 ---
 
