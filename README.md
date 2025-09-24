@@ -48,12 +48,21 @@ Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoa
 <br>
 <br>
 
+### Notas e Tarefas – Gnosis
+
+- **Descrição:** Programa para criar, listar e gerenciar anotações e tarefas em JSON com marcação de status  
+- **Objetivo:** Organizar notas e tarefas de forma prática e rápida  
+- **Tecnologias:** Python, JSON, readline, prompt_toolkit
+- **Repositório GitHub:** [Cique aqui](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis.git)
+
+
 ### Livro de Registros – Python
 
 - **Descrição:** Programa para criar, listar e remover registros em JSON com marcação de data e hora  
-- **Objetivo:** Organizar anotações pessoais de forma rápida  
+- **Objetivo:** Organizar anotações pessoais 
 - **Tecnologias:** Python, JSON, readline, datetime  
 - **Repositório GitHub:** [Clique aqui](https://github.com/Moises-Sousa0/livro-de-registros---python)
+
 
 <br>
 <br>
