@@ -168,25 +168,3 @@ graph LR
 </div>
 
 ---
-
-<details>
-<summary>🔍 <strong>Mais sobre meu perfil</strong></summary>
-
-### 🎓 Formação & Certificações
-- **Em andamento:** Análise e Desenvolvimento de Sistemas
-- **Concluído:** Ensino Médio (2024)
-- **Autodidata:** Cybersecurity, Linux, Python
-
-### 📚 Atualmente Estudando
-- Ethical Hacking e Penetration Testing
-- Frameworks de desenvolvimento Python
-- Arquitetura de software seguro
-- Metodologias ágeis
-
-### 🏅 Conquistas Pessoais
-- Mais de **200 commits** no GitHub em 2024
-- **2 projetos** completos e funcionais
-- Conhecimento autodidata em múltiplas tecnologias
-- Participação ativa em comunidades tech
-
-</details>
