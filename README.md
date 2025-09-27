@@ -1,106 +1,192 @@
-# 🕵️‍♂️ Moisés Sousa
-### Desenvolvedor & Segurança Digital
-
-Olá! Meu nome é **Moisés de Sousa** e moro em Fortaleza. Concluí o ensino médio em 2024 e atualmente curso **Análise e Desenvolvimento de Sistemas**. Desde muito cedo, desenvolvi curiosidade por tecnologia, explorando computadores, softwares e sistemas de forma autodidata.  
-
-Minha paixão está em **entender como as coisas funcionam e como podem ser melhoradas**, principalmente em áreas de desenvolvimento de software e segurança digital. Estou sempre em busca de desafios que me permitam criar soluções eficientes, inovadoras e seguras, além de aprender novas tecnologias e metodologias.  
-
-Meu objetivo é crescer como **desenvolvedor e profissional de segurança digital**, contribuindo para projetos que envolvam programação, automação, análise de vulnerabilidades e proteção de dados.
-
 ---
 
-## 📊 GitHub Stats
+
+## 👋 Olá! Eu sou o Moisés Sousa
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" width="520" alt="GitHub Stats"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&theme=gruvbox&layout=compact&langs_count=6&hide_border=true" width="520" alt="Top Languages"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Desenvolvedor+%26+Segurança+Digital;Estudante+de+ADS;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </div>
 
+## 🚀 Sobre Mim
 
+Desenvolvedor em formação com foco em **segurança digital** e **desenvolvimento de software**. Atualmente cursando **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE, com uma paixão genuína por entender como as coisas funcionam e como torná-las mais seguras e eficientes.
 
----
-
-## 🤖 Habilidades & Tecnologias
-
-Tenho experiência e habilidades em **desenvolvimento e segurança digital**, incluindo:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,css,html,c,vscode,git,github,linux" alt="Habilidades"/>
-</p>
-
-- **Linguagens de programação:** Python, C, HTML, CSS  
-- **Ferramentas e sistemas:** Git, GitHub, VSCode, Linux  
-- **Áreas de interesse:** Cibersegurança, automação de tarefas, análise de vulnerabilidades, redes, web security  
-- **Soft skills:** Pensamento analítico, resolução de problemas, aprendizado contínuo, atenção a detalhes, organização  
-
----
-
-## 🏆 Experiência & Projetos
-
-Mesmo sem experiência formal em empresas, venho desenvolvendo **projetos pessoais e experimentos técnicos**, aplicando conhecimento em:  
-
-- **Automação de tarefas** em Python, melhorando produtividade e aprendizado  
-- **Exploração ética de sistemas**, entendendo vulnerabilidades e formas de proteger dados  
-- **Criação de scripts e ferramentas** para organização pessoal, análise e manipulação de dados  
-- **Estudos de redes e protocolos**, aplicando conceitos de segurança e otimização de sistemas  
-
-<br>
-<br>
-
-### Notas e Tarefas – Gnosis
-
-- **Descrição:** Programa para criar, listar e gerenciar anotações e tarefas em JSON com marcação de status  
-- **Objetivo:** Organizar notas e tarefas de forma prática e rápida  
-- **Tecnologias:** Python, JSON, readline, prompt_toolkit
-- **Repositório GitHub:** [Cique aqui](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis.git)
-
-
-### Livro de Registros – Python
-
-- **Descrição:** Programa para criar, listar e remover registros em JSON com marcação de data e hora  
-- **Objetivo:** Organizar anotações pessoais 
-- **Tecnologias:** Python, JSON, readline, datetime  
-- **Repositório GitHub:** [Clique aqui](https://github.com/Moises-Sousa0/livro-de-registros---python)
-
-
-<br>
-<br>
-<br>
-
-
-> À medida que concluo projetos maiores, eles serão adicionados aqui com **descrição detalhada, tecnologias usadas e links para repositórios**.
+```python
+class Moises:
+    def __init__(self):
+        self.nome = "Moisés de Sousa"
+        self.localizacao = "Fortaleza, CE"
+        self.educacao = "Análise e Desenvolvimento de Sistemas"
+        self.interesses = ["Desenvolvimento", "Cybersecurity", "Automação"]
+        self.objetivo = "Criar soluções inovadoras e seguras"
+    
+    def skills(self):
+        return {
+            "linguagens": ["Python", "C", "HTML", "CSS"],
+            "ferramentas": ["Linux", "Git", "VSCode"],
+            "areas": ["Web Security", "Automação", "Análise de Vulnerabilidades"]
+        }
+```
 
 ---
 
-## 🔒 Interesses & Objetivos
+## 🛠️ Stack Tecnológico
 
-- Desenvolvimento de software seguro, escalável e eficiente  
-- Aprimorar habilidades em **Python, C, Linux, Git, redes e segurança digital**  
-- Explorar metodologias de **hacking ético e testes de penetração**  
-- Aprender continuamente sobre **novas tecnologias, frameworks e boas práticas**  
-- Contribuir para **projetos de inovação** que envolvam proteção de sistemas e dados  
+<div align="center">
+  
+### Linguagens
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
- 
+
+### Ferramentas & Tecnologias
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Áreas de Interesse
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B35?style=for-the-badge&logo=security&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge&logo=robot&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-2196F3?style=for-the-badge&logo=security&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Contato
+## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Moises-Sousa0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏗️ Projetos em Destaque
+
+<div align="center">
+
+### 📝 [Gnosis - Notas e Tarefas](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
+
+Sistema completo para gerenciamento de notas e tarefas com persistência em JSON
+- ✅ Interface interativa via linha de comando
+- 🔄 Controle de status e organização
+- 🔍 Sistema de busca e listagem
+- 💾 Persistência de dados estruturada
+
+### 📚 [Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![DateTime](https://img.shields.io/badge/DateTime-FF6B35?style=flat-square&logo=clock&logoColor=white)
+
+Aplicação para criação e gestão de registros pessoais timestampados
+- ⏰ Marcação automática de data/hora
+- 🗂️ Organização estruturada de dados
+- 💾 Persistência de dados estruturada
+
+
+</div>
+
+---
+
+## 🎯 Objetivos e Metas
+
+<div align="center">
+
+```mermaid
+graph LR
+    A[🎓 Formação em ADS] --> B[💼 Primeira Oportunidade]
+    B --> C[🔒 Especialização em Security]
+    C --> D[🚀 Projetos Inovadores]
+    
+    style A fill:#2d3748
+    style B fill:#2d3748
+    style C fill:#2d3748
+    style D fill:#2d3748
+```
+
+</div>
+
+- 🔹 **Curto Prazo:** Conseguir primeira oportunidade em suporte técnico ou desenvolvimento
+- 🔹 **Médio Prazo:** Especializar-me em cybersecurity e ethical hacking
+- 🔹 **Longo Prazo:** Contribuir para projetos que impactem positivamente a segurança digital
+
+---
+
+## 💡 Soft Skills
+
+<div align="center">
+
+| 🧠 **Pensamento Analítico** | 🔍 **Atenção aos Detalhes** | 📚 **Aprendizado Contínuo** |
+|:---:|:---:|:---:|
+| Capacidade de quebrar problemas complexos | Foco na qualidade e precisão | Sempre buscando evoluir |
+
+| 🛠️ **Resolução de Problemas** | 📋 **Organização** | 🤝 **Comunicação** |
+|:---:|:---:|:---:|
+| Abordagem estruturada para desafios | Metodologia clara de trabalho | Explicações técnicas didáticas |
+
+</div>
+
+---
+
+## 📈 Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moises-Sousa0&custom_title=Contribuições%20dos%20Últimos%20Meses&hide_border=true&theme=tokyo-night" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 🌐 Vamos Conectar?
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:moisessousanow@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
+  <a href="https://github.com/Moises-Sousa0">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-## 📌 Observações
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moises-Sousa0&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  
+  ### 💫 _"Cada linha de código é uma oportunidade de criar algo melhor"_
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
-- Perfil focado em **desenvolvimento, automação e segurança digital**  
-- Projetos demonstram **capacidade de criar soluções estruturadas e funcionais**  
-- Sempre aberto a **aprender, colaborar e evoluir profissionalmente**  
-- Este perfil é atualizado constantemente à medida que novos projetos e habilidades são adquiridos
+---
+
+<details>
+<summary>🔍 <strong>Mais sobre meu perfil</strong></summary>
+
+### 🎓 Formação & Certificações
+- **Em andamento:** Análise e Desenvolvimento de Sistemas
+- **Concluído:** Ensino Médio (2024)
+- **Autodidata:** Cybersecurity, Linux, Python
+
+### 📚 Atualmente Estudando
+- Ethical Hacking e Penetration Testing
+- Frameworks de desenvolvimento Python
+- Arquitetura de software seguro
+- Metodologias ágeis
+
+### 🏅 Conquistas Pessoais
+- Mais de **200 commits** no GitHub em 2024
+- **2 projetos** completos e funcionais
+- Conhecimento autodidata em múltiplas tecnologias
+- Participação ativa em comunidades tech
+
+</details>
