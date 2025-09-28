@@ -160,7 +160,7 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moises-Sousa0&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  
   
   ### 💫 _"Cada linha de código é uma oportunidade de criar algo melhor"_
   
