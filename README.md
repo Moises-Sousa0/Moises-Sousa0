@@ -1,7 +1,7 @@
 ---
 
 
-## 👋 Olá! Eu sou o Moisés Sousa
+## 👋 Olá! Eu sou o Moisés
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Desenvolvedor+%26+Segurança+Digital;Estudante+de+ADS;Apaixonado+por+Tecnologia" alt="Typing SVG" />
