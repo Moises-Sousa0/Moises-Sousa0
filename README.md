@@ -114,7 +114,7 @@ graph LR
 </div>
 
 - 🔹 **Curto Prazo:** Conseguir primeira oportunidade em suporte técnico ou desenvolvimento
-- 🔹 **Médio Prazo:** Especializar-me em cybersecurity e ethical hacking
+- 🔹 **Médio Prazo:** Especializar-me em cybersecurity e desenvolvimento backend
 - 🔹 **Longo Prazo:** Contribuir para projetos que impactem positivamente a segurança digital
 
 ---
