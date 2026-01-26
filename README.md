@@ -22,9 +22,9 @@ class Moises:
     
     def skills(self):
         return {
-            "linguagens": ["Python", "C"],
-            "ferramentas": ["Linux", "Git", "VSCode"],
-            "areas": ["Web Security", "Automação", "Análise de Vulnerabilidades"]
+            "linguagens": ["Python", "Java"],
+            "ferramentas": ["Linux", "Git", "VSCode", "Intellij"],
+            "areas": ["Web Security", "Desenvolvimento", "Análise de Vulnerabilidades"]
         }
 ```
 
