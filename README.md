@@ -1,55 +1,51 @@
 # Olá, eu sou o Moisés de Sousa 👋
 
-Desenvolvedor em formação com foco em **Segurança Digital** e **Desenvolvimento de Software**. Atualmente cursando Análise e Desenvolvimento de Sistemas em Fortaleza/CE, busco criar soluções que unem eficiência e proteção de dados.
+Sou um entusiasta de tecnologia focado em construir softwares seguros e eficientes. Atualmente, curso **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE e dedico meu tempo livre a explorar as vulnerabilidades da web e o potencial das IAs locais.
 
 ---
 
-### 🚀 Sobre Mim
-* 🎓 **Educação:** Graduando em Análise e Desenvolvimento de Sistemas.
-* 🔒 **Foco:** Cybersecurity, Desenvolvimento Backend e Automação.
-* 🌱 **Objetivo:** Contribuir para projetos que impactem positivamente a segurança digital e iniciar carreira em suporte técnico ou desenvolvimento.
+### 🔍 O que ando estudando e praticando:
+
+* 💻 **Desenvolvimento:** Criando aplicações robustas com Python e Java.
+* 🔒 **Segurança Digital:** Entusiasta de Web Security e análise de vulnerabilidades.
+* 🤖 **AI & LLMs:** Explorando o uso de modelos de linguagem locais com **Ollama** para automação e produtividade.
+* 🐧 **Open Source:** Usuário de Linux e defensor de ferramentas que dão liberdade ao desenvolvedor.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Toolbox Tecnológico
 
-**Linguagens & Áreas**
+**Linguagens & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B35?style=flat-square&logo=security&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-4CAF50?style=flat-square&logo=robot&logoColor=white)
 
-**Ferramentas**
+**Segurança & IA**
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B35?style=flat-square&logo=security&logoColor=white)
+![Web Security](https://img.shields.io/badge/Web_Security-2196F3?style=flat-square&logo=security&logoColor=white)
+
+**Ferramentas de Trabalho**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-### 🏗️ Projetos em Destaque
+### 🏗️ No que tenho trabalhado?
 
 #### 📝 [Gnosis - Notas e Tarefas](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)
-Sistema para gerenciamento de tarefas via CLI com persistência de dados em JSON.
-* Foco em organização e estruturação de dados.
-* Interface interativa e sistema de busca otimizado.
+Um gerenciador de tarefas via terminal que prioriza a velocidade. Desenvolvido em Python com persistência estruturada em JSON para quem gosta de manter tudo sob controle direto na CLI.
 
 #### 📚 [Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)
-Aplicação Python para gestão de registros pessoais com marcação temporal automática.
-* Uso da biblioteca `datetime` para logs precisos.
-* Foco em persistência de dados e automação de registros.
+Aplicação focada em logs pessoais e marcação temporal. Um projeto prático para lidar com manipulação de dados e automação de rotinas simples.
 
 ---
 
-### 📊 Estatísticas
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Sousa0&layout=compact&theme=flat&hide_border=true)
-
----
-
-### 🌐 Vamos nos conectar?
+### 🌐 Vamos trocar uma ideia?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-sousa-20132a267/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moisessousanow@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Moises-Sousa0)
 
-*"Cada linha de código é uma oportunidade de criar algo melhor."*
+*"Codar é a arte de resolver problemas que você mesmo criou, ou de garantir que ninguém mais consiga criar novos."*
