@@ -1,4 +1,4 @@
-# Olá, sou o Moisés de Sousa! 👨‍💻
+# Olá, sou o Moisés de Sousa! 
 
 Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE. Atuo com suporte técnico e infraestrutura, focando meus estudos em lógica de programação, redes e segurança defensiva.
 
