@@ -37,7 +37,7 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 
 * **LINKEDIN:** https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/
 
-***EMAIL:** moisessousanow@gmail.com
+* **EMAIL:** moisessousanow@gmail.com
 
 ---
 
