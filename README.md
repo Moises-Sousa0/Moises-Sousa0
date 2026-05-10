@@ -32,11 +32,12 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 * **[Argos](https://github.com/Moises-Sousa0/ARGOS)**: Assistente virtual com LLM + comandos de voz, ainda em construção
 ---
 
+
 ### 📫 Vamos nos conectar?
 
-**LINKEDIN:** https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/
+* **LINKEDIN:** https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/
 
-**EMAIL:** moisessousanow@gmail.com
+***EMAIL:** moisessousanow@gmail.com
 
 ---
 
