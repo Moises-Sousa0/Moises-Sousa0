@@ -29,6 +29,7 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 
 * **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)**: Sistema de gerenciamento de tarefas e notas em terminal com persistência de dados
 * **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)**: CRUD simples para gerenciamento de registros de texto no terminal
+* **[Assistente virtual](https://github.com/Moises-Sousa0/ARGOS)**: Assistente virtual com LLM + comandos de voz, ainda em processo
 ---
 
 ### 📫 Vamos nos conectar?
