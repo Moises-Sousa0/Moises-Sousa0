@@ -1,6 +1,6 @@
 # Olá, sou o Moisés! 
 
-Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE. Atuo com suporte técnico e infraestrutura, focando meus estudos em lógica de programação, redes e segurança defensiva.
+Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE. Atuo com suporte técnico e infraestrutura, focando meus estudos em programação, redes e segurança defensiva.
 
 ---
 
@@ -27,9 +27,8 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 
 ### 📂 Projetos em Destaque
 
-* **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)**: Gerenciador de tarefas via CLI para exercitar lógica e persistência de dados em JSON.
-* **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)**: Projeto de automação de logs e organização de informações.
-
+* **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)**: Sistema de gerenciamento de tarefas e notas em terminal com persistência de dados
+* **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)**: CRUD simples para gerenciamento de registros de texto no terminal
 ---
 
 ### 📫 Vamos nos conectar?
