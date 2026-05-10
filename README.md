@@ -34,8 +34,8 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:moisessousanow@gmail.com)
+**LINKEDIN:** https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/)
+**EMAIL:** moisessousanow@gmail.com
 
 ---
 
