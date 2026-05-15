@@ -1,17 +1,16 @@
-# Olá, sou o Moisés! 
+# Olá, sou o Moisés!
 
-Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE. Atuo com suporte técnico e infraestrutura, focando meus estudos em programação, redes e segurança defensiva.
+Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE.
+Foco em desenvolvimento **backend com Python** — construindo projetos reais,
+estudando APIs e banco de dados, e com experiência prática em suporte técnico e infraestrutura.
 
 ---
 
-### 🛠️ No meu terminal...
+### 🛠️ No momento...
 
-Atualmente, dedico meu tempo para aprender como sistemas se conectam e como automatizar tarefas do dia a dia.
-
-* **Linguagens:** Python, Java (Básico) e fundamentos de C.
-* **Segurança & Redes:** Praticando no **TryHackMe**, comandos de rede (Ping, ARP, IPConfig) e **Nmap**.
-* **IA Local:** Explorando modelos de linguagem via **Ollama**.
-* **Sistemas:** Experiência com Windows, Linux básico e suporte a dispositivos.
+- Aprofundando em **PostgreSQL** e **FastAPI** para construir APIs do zero
+- Desenvolvendo aplicações em Python com persistência de dados e lógica de negócio
+- Explorando **Linux** e ambientes reais no dia a dia do suporte técnico
 
 ---
 
@@ -19,25 +18,24 @@ Atualmente, dedico meu tempo para aprender como sistemas se conectam e como auto
 
 | Categoria | Ferramentas e Tecnologias |
 | :--- | :--- |
-| **Programação** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-| **Security & IA** | ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?style=flat&logo=tryhackme&logoColor=white) ![Nmap](https://img.shields.io/badge/-Nmap-4f8abb?style=flat&logo=nmap&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) |
-| **Ambiente** | ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) |
+| **Infra & Redes** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Interesses** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![TryHackMe](https://img.shields.io/badge/-TryHackMe-212c42?style=flat&logo=tryhackme&logoColor=white) |
 
 ---
 
-### 📂 Projetos em Destaque
+### 📂 Projetos
 
-* **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)**: Sistema de gerenciamento de tarefas e notas em terminal com persistência de dados
-* **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)**: CRUD simples para gerenciamento de registros de texto no terminal
-* **[Argos](https://github.com/Moises-Sousa0/ARGOS)**: Assistente virtual com LLM + comandos de voz, ainda em construção
+- **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)** — Gerenciador de tarefas e notas em terminal com persistência de dados em JSON
+- **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)** — CRUD em terminal para gerenciamento de registros de texto
+- **[Argos](https://github.com/Moises-Sousa0/ARGOS)** — Assistente com LLM e comandos de voz *(em construção)*
+
 ---
 
+### 📫 Contato
 
-### 📫 Vamos nos conectar?
-
-* **LINKEDIN:** https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/
-
-* **EMAIL:** moisessousanow@gmail.com
+- **LinkedIn:** [Moisés Sousa](https://www.linkedin.com/in/mois%C3%A9s-sousa-20132a267/)
+- **Email:** moisessousanow@gmail.com
 
 ---
 
