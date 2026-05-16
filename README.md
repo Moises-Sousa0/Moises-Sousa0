@@ -40,5 +40,5 @@ estudando APIs e banco de dados, e com experiência prática em suporte técnico
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e1ad01&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=35598C&height=100&section=footer" />
 </p>
