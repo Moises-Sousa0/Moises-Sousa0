@@ -26,12 +26,11 @@ estudando APIs e banco de dados, e com experiência prática em suporte técnico
 
 ### 📂 Projetos
 
+- **[OutDrop-API](https://github.com/Moises-Sousa0/OutDrop-API)** - Estudo de API para gerenciamento de drops de marcas de roupas *(em construção)*
 - **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)** — Gerenciador de tarefas e notas em terminal com persistência de dados em JSON
 - **[Livro de Registros](https://github.com/Moises-Sousa0/livro-de-registros---python)** — CRUD em terminal para gerenciamento de registros de texto
 - **[Argos](https://github.com/Moises-Sousa0/ARGOS)** — Assistente com LLM e comandos de voz *(em construção)*
-- **[OutDrop-API](https://github.com/Moises-Sousa0/OutDrop-API)** - Estudo de API para gerenciamento de drops de marcas de roupas *(em construção)*
 
----
 
 ### 📫 Contato
 
