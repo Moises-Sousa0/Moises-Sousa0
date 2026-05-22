@@ -37,7 +37,7 @@ estudando APIs e banco de dados, e com experiência prática em suporte técnico
   - **O que é:** CRUD básico por linha de comando para inserção e listagem de registros de texto.
   - **Foco de estudo:** Prática de operações básicas (Create, Read, Update, Delete) em Python puro.
 
-- **[Argos](https://github.com/Moises-Sousa0/ARGOS)** *(Em construção)*
+- **[Argos](https://github.com/Moises-Sousa0/ARGOS)** 
   - **O que é:** Um assistente que criei para explorar integração com LLMs e comandos de voz via terminal.
   - **Foco de estudo:** Consumo de APIs e processamento de áudio básico.
 
