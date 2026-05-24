@@ -26,8 +26,8 @@ estudando APIs e banco de dados, e com experiência prática em suporte técnico
 ### 📂 Projetos para Estudo e Portfólio
 
 - **[OutDrop-API](https://github.com/Moises-Sousa0/OutDrop-API)** 
-  - **O que é:** API que estou desenvolvendo para estudar o ecossistema do FastAPI e banco de dados relacional, simulando a gestão de drops de marcas de streetwear.
-  - **Foco de estudo:** Estruturação de rotas, ORM com SQLAlchemy e relacionamentos no PostgreSQL.
+  - **O que é:** API REST para gerenciamento de drops de streetwear, com cadastro de marcas, produtos e lançamentos, autenticação JWT e controle de acesso por usuário.
+  - **Stack** FastAPI · SQLAlchemy · PostgreSQL · Alembic · JWT
 
 - **[Gnosis](https://github.com/Moises-Sousa0/notas-e-tarefas-gnosis)**
   - **O que é:** Um gerenciador de tarefas e anotações via terminal.
