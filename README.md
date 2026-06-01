@@ -6,7 +6,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE.
 Foco em desenvolvimento **backend com Python** — construindo projetos reais,
 estudando APIs e banco de dados, e com experiência prática em suporte técnico e infraestrutura.
-
+ 
 ---
 
 ### 🛠️ No momento...
