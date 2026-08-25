@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=35598C&height=150&section=header&text=Moisés%20Sousa&desc=Python%20%7C%20Fastapi%20%7C%20SQL&fontColor=ffffff&fontSize=40&descSize=16&fontAlignY=45" />
 </p>
 
- 
+  
 Estudante de **Análise e Desenvolvimento de Sistemas** em Fortaleza/CE.
 Foco em desenvolvimento **backend com Python** — construindo projetos reais,
 estudando APIs e banco de dados, e com experiência prática em suporte técnico e infraestrutura.
