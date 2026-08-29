@@ -8,7 +8,7 @@ Foco em desenvolvimento **backend com Python** — construindo projetos reais,
 estudando APIs e banco de dados, e com experiência prática em suporte técnico e infraestrutura.
  
 ---
-
+ 
 ### 🛠️ No momento...
 
 - 🚀 Aprofundando em **PostgreSQL** e **FastAPI** para construir APIs do zero
