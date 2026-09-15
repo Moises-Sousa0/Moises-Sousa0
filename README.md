@@ -63,15 +63,7 @@ Um projeto pequeno, mas que serviu para praticar os fundamentos de operações C
 
 ---
 
-#### [Argos](https://github.com/Moises-Sousa0/ARGOS)
 
-Um experimento pessoal com **LLMs, comandos de voz e terminal**.
-
-A ideia foi explorar integração com APIs e descobrir até onde dava para levar um pequeno assistente feito por conta própria.
-
-**Python · APIs · LLM · Áudio**
-
----
 
 ### 🌐 Onde me encontrar
 
