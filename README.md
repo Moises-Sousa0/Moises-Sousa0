@@ -5,7 +5,7 @@
 Estudante de **Análise e Desenvolvimento de Sistemas**, de Fortaleza/CE.
 
 Tenho focado cada vez mais em **backend**, principalmente com **Java e Spring Boot**. Gosto de aprender colocando as coisas em prática, construindo projetos e fuçando até entender como elas funcionam.
-
+ 
 ---
 
 ### 🚧 Atualmente
