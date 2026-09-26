@@ -8,7 +8,7 @@
   <tr>
     <th colspan="2" align="center">
       <br>
-      <font size="6"><b>CURRENTLY</b></font>
+      <font size="6"><b>TECHNOLOGIES</b></font>
       <br><br>
     </th>
   </tr>
@@ -21,7 +21,6 @@
         <code>Python</code> ·
         <code>JavaScript</code> ·
         <code>PostgreSQL</code> ·
-        <code>JPA</code> ·
         <code>Docker</code> ·
         <code>Git</code> ·
         <code>Linux</code>
