@@ -1,16 +1,14 @@
 <p align="center">
-  <img src="https://readmeforge.natrajx.in/api/banner?text=Mois%C3%A9s&subtext=Everything+I%27m+not+makes+me+everything+I+am.&metal=black&type=wave&height=220&width=800&animation=none&align=center&section=header&theme=dark&fontFamily=Arial+Black&subtextFont=Trebuchet+MS&visualStyle=minimal&border=animated&borderWidth=3&textColor=%23ffffff&subtextColor=%234e4646&borderColor=%235c5c5c" width="85%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=260&color=gradient&text=Mois%C3%A9s&fontColor=ffffff&fontSize=95&font=Arial&animation=fadeIn&desc=JAVA%20BACKEND%20DEVELOPER&descSize=24&descAlignY=68&descColor=ffffff" width="85%" />
 </p>
 
-<br>
 
-<h2 align="center">JAVA BACKEND DEVELOPER</h2>
+<br>
 
 <br>
 <br>
 
 <table align="center" width="100%">
-  <!-- SEÇÃO 1: CURRENTLY -->
   <tr>
     <th colspan="2" align="center">
       <br>
@@ -36,7 +34,6 @@
     </td>
   </tr>
 
-  <!-- SEÇÃO 2: PROJECTS -->
   <tr>
     <th colspan="2" align="center">
       <br>
@@ -75,7 +72,6 @@
     </td>
   </tr>
 
-  <!-- SEÇÃO 3: ACTIVITY -->
   <tr>
     <th colspan="2" align="center">
       <br>
@@ -87,7 +83,7 @@
     <td colspan="2" align="center">
       <br>
       <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&hide_border=true&theme=transparent&ring=666666&fire=8B4A4A&currStreakLabel=8B4A4A&sideLabels=888888&currStreakNum=8B4A4A&sideNums=888888&dates=888888&stroke=333333&border=333333" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&hide_border=true&theme=transparent&ring=1F6FEB&fire=8B4A4A&currStreakLabel=8B4A4A&sideLabels=888888&currStreakNum=1F6FEB&sideNums=888888&dates=888888&stroke=333333&border=333333" />
       </p>
       <br>
     </td>
@@ -109,6 +105,7 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://readmeforge.natrajx.in/api/banner?text=&subtext=&metal=black&type=wave&height=220&width=800&animation=none&align=center&section=footer&theme=dark&fontFamily=Arial+Black&subtextFont=Arial+Black&visualStyle=minimal&border=animated&borderWidth=3&textColor=%23ffffff&subtextColor=%23bababa&borderColor=%235c5c5c" width="85%" />
-</p>
+
+<h3 align="center"><i>Everything I'm not makes me everything I am.</i></h3>
+
+
