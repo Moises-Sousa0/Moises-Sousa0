@@ -15,7 +15,7 @@
   <tr>
     <td colspan="2" align="center">
       <br>
-      <p>
+      <h4>
         <code>Spring Boot</code> ·
         <code>Java</code> ·
         <code>Python</code> ·
@@ -24,7 +24,7 @@
         <code>Docker</code> ·
         <code>Git</code> ·
         <code>Linux</code>
-      </p>
+      </h4>
       <br>
     </td>
   </tr>
