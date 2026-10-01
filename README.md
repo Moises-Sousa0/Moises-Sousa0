@@ -78,8 +78,7 @@
     <td colspan="2" align="center">
       <br>
       <p>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&hide_border=true&theme=transparent&ring=1F6FEB&fire=8B4A4A&currStreakLabel=8B4A4A&sideLabels=888888&currStreakNum=1F6FEB&sideNums=888888&dates=888888&stroke=333333&border=333333&utc_offset=-3&type=all" />
-      </p>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Sousa0&hide_border=true&theme=transparent&ring=1F6FEB&fire=8B4A4A&currStreakLabel=8B4A4A&sideLabels=888888&currStreakNum=1F6FEB&sideNums=888888&dates=888888&stroke=333333&border=333333&utc_offset=-3&type=all&cache=false" />      </p>
       <br>
     </td>
   </tr>
