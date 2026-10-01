@@ -12,19 +12,19 @@
       <br><br>
     </th>
   </tr>
-  <tr>
+ <tr>
     <td colspan="2" align="center">
       <br>
-      <h4>
-        <code>Spring Boot</code> ·
-        <code>Java</code> ·
-        <code>Python</code> ·
-        <code>JavaScript</code> ·
-        <code>PostgreSQL</code> ·
-        <code>Docker</code> ·
-        <code>Git</code> ·
-        <code>Linux</code>
-      </h4>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      </p>
       <br>
     </td>
   </tr>
